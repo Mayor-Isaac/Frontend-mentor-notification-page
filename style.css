@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,500;0,800;1,500&family=Ubuntu:wght@300;400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.5em;
+  color: #333;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  /* font-family: 'Ubuntu', sans-serif */
+}
+img {
+  width: 50px;
+}
+h2 {
+  font-weight: 800;
+}
+em {
+  font-style: normal;
+}
+strong {
+  font-weight: 800;
+}
+.click:hover,
+.click:active {
+  cursor: pointer;
+  color: hsl(219, 85%, 26%);
+}
+/* GENERAL STYLING */
+.container {
+  max-width: 870px;
+  margin: 0 auto;
+}
+.bg--blue {
+  background-color: hsl(219, 85%, 26%);
+}
+.unread {
+  background-color: hsl(205, 33%, 90%);
+}
+.flex {
+  display: flex;
+  align-items: flex-start;
+}
+.align-end {
+  align-items: flex-end;
+}
+.align-center {
+  align-items: center;
+}
+.sb {
+  justify-content: space-between;
+}
+.content-center {
+  justify-content: center;
+}
+.g-1 {
+  gap: 3rem;
+}
+.text-white {
+  color: hsl(0, 0%, 100%);
+  font-weight: 800;
+  margin: 0 1rem;
+}
+/* spacing */
+.p--1 {
+  padding: 0.5rem;
+}
+.p--4 {
+  padding: 2rem;
+}
+.px--2 {
+  padding: 1rem 5rem;
+}
+.info,
+.read-text {
+  margin: 0 0 1rem;
+}
+.my-2 {
+  margin: 2rem 0;
+}
+/* font sizes */
+
+.fs-3 {
+  font-size: 1.8rem;
+}
+/*  */
+.chess-club {
+  font-weight: 800;
+  color: hsl(219, 85%, 26%);
+  cursor: pointer;
+}
+.dot {
+  display: inline-block;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: hsl(1, 90%, 64%);
+  transform: translate(1.2rem, 1.3rem);
+  border-radius: 50%;
+}
+.d-none {
+  display: none;
+}
+.private-text {
+  border: 1px solid hsl(205, 33%, 90%);
+  cursor: pointer;
+}
+.private-text:hover {
+  background-color: hsl(180, 70%, 90%);
+}
+.curve {
+  border-radius: 8px;
+}
+.chess-img {
+  margin-left: auto;
+  cursor: pointer;
+}
+.light-ash {
+  color: hsl(219, 14%, 63%);
+  font-weight: 800;
+}
+.deep-ash {
+  color: hsl(219, 12%, 42%);
+  font-weight: 800;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* ==========
+MEDIA QUERY
+======*/
+@media screen and (max-width: 375px) {
+  .fs-3 {
+    font-size: 1.2rem;
+  }
+  .dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    transform: translate(1rem, 0.5rem);
+  }
+}
