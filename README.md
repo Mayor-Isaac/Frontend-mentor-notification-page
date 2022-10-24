@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot%20when%20not%20click.png.jpg)
-<!-- ![](./screenshot%20when%20clicked.png) -->
+![](./screenshot%20when%20not%20click.png)
+![](./screenshot%20when%20clicked.png)
 
 
 ### Links
