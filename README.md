@@ -65,7 +65,7 @@ Advance JavaScript DOM manipulation
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/feranmi-ogunyileka-359a1723b)
+- LinkedIn - [Feranmi Ogunyileka](https://www.linkedin.com/in/feranmi-ogunyileka-359a1723b)
 - Frontend Mentor - [@Mayor-Isaac](https://www.frontendmentor.io/profile/Mayor-Isaac)
 - Twitter - [@mayor_idyllic](https://www.twitter.com/mayor_idyllic)
 
