@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mayor-Isaac/Frontend-mentor-notification-page)
-- Live Site URL: [Add live site URL here](https://idyllic-notification-page.netlify.app/)
+- Solution URL: [https://github.com/Mayor-Isaac/Frontend-mentor-notification-page]
+- Live Site URL: [[Add live site URL here](https://idyllic-notification-page.netlify.app/)]
 
 ## My process
 After building my markup,
